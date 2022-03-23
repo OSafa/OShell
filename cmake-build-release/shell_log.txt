@@ -1,0 +1,3 @@
+Wed Mar 23 21:36:13 2022
+Error occurred when calling execvp():
+ERROR: The executable does not exist, or a shared library required cannot be found (ENOENT)
