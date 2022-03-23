@@ -1,5 +1,0 @@
-Wed Mar 23 21:55:37 2022
-Error occurred when calling execvp():
-ERROR: The executable does not exist, or a shared library required cannot be found (ENOENT)
-Wed Mar 23 21:55:37 2022
- child process with PID 23955 has terminated
